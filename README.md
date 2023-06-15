@@ -1,5 +1,7 @@
 # random-password-g3nerat0r
 
+![image](https://i.gyazo.com/11418779877fb01320e025461925246a.png)
+
 This is a randomized password generator, based around user input. <br>
 User can determine a password length of 8-128 characters.<br>
 User can determine wether they would like special, numeric, uppercase, or lowercase characters in their password.<br>
